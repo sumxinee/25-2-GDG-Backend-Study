@@ -46,9 +46,6 @@ REST API 구현 시 컨트롤러, 서비스, 레포지토리 구조를 쉽게 �
 웹은 정보를 주고받는 시스템, HTTP는 통신 규약, REST API는 HTTP 기반 자원 처리 API, Spring Boot는 쉽게 REST API를 구현할 수 있는 Java 프레임워크임
 
 
-![33333](https://github.com/user-attachments/assets/cf54072a-7e2b-4341-b8d1-14fd3d57b8d5)
-
-
 온라인 쇼핑몰 API 명세서
 
 | 기능          | HTTP Method | URI                   |
