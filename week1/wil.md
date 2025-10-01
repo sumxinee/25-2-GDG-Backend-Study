@@ -62,3 +62,4 @@ REST API 구현 시 컨트롤러, 서비스, 레포지토리 구조를 쉽게 �
 | 주문 목록 조회    | GET         | /orders           |
 | 개별 주문 정보 조회 | GET         | /orders/{orderId} |
 | 주문 취소       | DELETE      | /orders/{orderId} |
+![week1](hw1.jpg)
